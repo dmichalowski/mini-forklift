@@ -18,7 +18,6 @@ All project consinst of:
 * Battery
 
 ## Control
-![Blue Dot App](/images/blue_dot.png)
 Robot is controlled using blue dot app, which sends message to arduino about location of the finger on touch screen.
 
 Blue dot circle was split into outer and inner circle. Inner was controling the lift, outer was controling movement of the robot.
