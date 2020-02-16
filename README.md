@@ -18,9 +18,13 @@ All project consinst of:
 * Battery
 
 ## Control
+![GitHub Logo](/images/blue_dot.png)
+Robot is controlled using blue dot app, which sends message to arduino about location of the finger on touch screen.
 
+Blue dot circle was split into outer and inner circle. Inner was controling the lift, outer was controling movement of the robot.
 
+Speed of the motors was controlled using PWM.
 
-## Prologue
-Project was done in order to finish recruitment to "Synergia" science club in PWR.
+## Thougts
+Blue dot app wasnt the best choice. Similar funcionality could be achieved using better control system.
 
